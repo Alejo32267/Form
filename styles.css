@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+}
+
+.card {
+    width: 50%;
+}
+
+.left {
+    display: flex;
+}
+
+.right {
+    display: flex;
+    align-content: flex-end;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 5px;
+}
+
+p {
+    font-size: small;
+    color: grey;
+}
