@@ -10,15 +10,6 @@ body {
     width: 50%;
 }
 
-.left {
-    display: flex;
-}
-
-.right {
-    display: flex;
-    align-content: flex-end;
-}
-
 .card-footer {
     display: flex;
     justify-content: flex-end;
